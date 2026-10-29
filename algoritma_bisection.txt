@@ -1,1 +1,16 @@
+ALGORITMA PENYELESAIAN PERSAMAAN NONLINEAR DENGAN METODE BISECTION
 
+1. Mulai.
+2. Tentukan fungsi nonlinear f(x), batas bawah a, batas atas b, nilai toleransi, dan jumlah iterasi maksimum.
+3. Hitung nilai f(a) dan f(b).
+4. Periksa apakah f(a) dan f(b) memiliki tanda yang berlawanan.
+5. Jika tanda kedua nilai sama, tampilkan pesan bahwa interval tidak memenuhi syarat dan hentikan program.
+6. Hitung titik tengah interval dengan rumus c = (a + b) / 2.
+7. Hitung nilai fungsi pada titik tengah, yaitu f(c).
+8. Simpan hasil iterasi berupa nomor iterasi, a, b, c, dan f(c).
+9. Jika nilai absolut f(c) lebih kecil dari toleransi atau setengah lebar interval lebih kecil dari toleransi, tetapkan c sebagai perkiraan akar dan hentikan iterasi.
+10. Jika f(a) dan f(c) memiliki tanda berlawanan, ubah batas atas menjadi b = c.
+11. Jika tidak, ubah batas bawah menjadi a = c.
+12. Ulangi langkah 6 sampai 11 hingga toleransi terpenuhi atau jumlah iterasi maksimum tercapai.
+13. Tampilkan perkiraan akar, jumlah iterasi, dan nilai fungsi pada akar.
+14. Selesai.
