@@ -1,0 +1,16 @@
+ALGORITMA PENYELESAIAN SISTEM PERSAMAAN LINEAR 3 VARIABEL
+METODE ELIMINASI GAUSS
+
+1. Mulai.
+2. Masukkan tiga persamaan linear yang memiliki variabel x, y, dan z.
+3. Susun koefisien dan konstanta persamaan ke dalam matriks augmented berukuran 3 × 4.
+4. Tentukan elemen pivot pada kolom pertama.
+5. Lakukan pertukaran baris jika elemen pivot bernilai nol.
+6. Gunakan operasi baris elementer untuk menghilangkan koefisien di bawah pivot pertama.
+7. Lanjutkan proses eliminasi pada kolom kedua dan ketiga hingga matriks berbentuk segitiga atas.
+8. Periksa apakah sistem memiliki solusi tunggal.
+9. Hitung nilai z dari persamaan baris ketiga.
+10. Hitung nilai y menggunakan hasil z pada persamaan baris kedua.
+11. Hitung nilai x menggunakan hasil y dan z pada persamaan baris pertama.
+12. Tampilkan nilai x, y, dan z sebagai hasil penyelesaian.
+13. Selesai.
