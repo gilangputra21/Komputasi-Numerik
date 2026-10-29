@@ -1,0 +1,22 @@
+DAFTAR PROMPT AI
+
+PROMPT 1 — Algoritma SPL 3 Variabel
+Bantu saya memahami dan menyusun algoritma penyelesaian sistem persamaan linear tiga variabel dengan metode eliminasi Gauss. Berikan langkah algoritma secara berurutan, contoh persamaan, dan penjelasan prosesnya dengan bahasa mahasiswa yang mudah dipahami.
+
+PROMPT 2 — Implementasi Python SPL
+Buat contoh program Python untuk menyelesaikan sistem persamaan linear tiga variabel menggunakan eliminasi Gauss. Pisahkan program ke dalam beberapa cell Google Colab. Sertakan komentar kode, hasil running, dan pemeriksaan solusi ke persamaan awal.
+
+PROMPT 3 — Penjelasan Kode SPL
+Jelaskan fungsi setiap bagian kode eliminasi Gauss, mulai dari pembentukan matriks augmented, pemilihan pivot, operasi baris, hingga substitusi mundur. Gunakan penjelasan yang sesuai dengan pemahaman mahasiswa pemula.
+
+PROMPT 4 — Algoritma Metode Bisection
+Bantu saya menyusun algoritma pencarian akar persamaan nonlinear menggunakan metode Bisection. Jelaskan syarat interval, rumus titik tengah, pembaruan interval, toleransi, dan kondisi berhenti.
+
+PROMPT 5 — Implementasi Python Bisection
+Buat contoh program Python untuk metode Bisection yang dibagi menjadi beberapa cell Google Colab. Sertakan fungsi nonlinear, interval awal, proses iterasi, tabel hasil, dan perkiraan akar.
+
+PROMPT 6 — Penjelasan dan Pengujian
+Jelaskan kode Bisection secara rinci dan bantu periksa apakah hasil perhitungan sesuai dengan fungsi yang digunakan. Sertakan interpretasi hasil serta keterbatasan metode.
+
+PROMPT 7 — Naskah Video
+Buat kerangka penjelasan video maksimal lima menit yang membahas algoritma SPL tiga variabel, implementasi eliminasi Gauss, algoritma Bisection, kode Python, dan hasil running. Gunakan bahasa Indonesia yang alami dan mudah disampaikan.
